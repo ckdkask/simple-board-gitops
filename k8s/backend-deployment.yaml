@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: backend
-        image: ckdkask/simple-board-backend:main-1bab56c13e81c02ab1e5b62c240b032459fd506d
+        image: ckdkask/simple-board-backend:main-ed65488bcd9e8b10c2dde2c0d2a0d975f713273c
         imagePullPolicy: Always
         ports:
         - containerPort: 5000
