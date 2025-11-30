@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: ckdkask/simple-board-frontend:main-4cb9a7b94c1e3ed5ba8b049e3500368ccba6c229
+        image: ckdkask/simple-board-frontend:main-3e028738b10465a2c7728053f2c799123dbb0249
         imagePullPolicy: Always
         ports:
         - containerPort: 80
